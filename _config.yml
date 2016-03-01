@@ -1,0 +1,12 @@
+# Site settings
+title: Minhoooo
+email: minhoooo@gmail.com
+author: Minhoooo
+description: "Minhoooo writing things."
+baseurl: ""
+url: "http://minhoooo.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 3
